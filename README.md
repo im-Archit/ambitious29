@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ambitious29
+- 👋 Hi, I’m Archit
 - 👀 I’m interested in learning and exploring new things
 - 🌱 I’m currently learning cpp
 - 💞️ I’m looking to collaborate on new and unique projects
